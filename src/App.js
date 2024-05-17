@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { createApi } from 'unsplash-js';
 import './App.css';
 import ReactPaginate from 'react-paginate';
-import { FaCamera } from 'react-icons/fa'; // Choose any icon you like
+import { FaCamera } from 'react-icons/fa';
 
 const unsplash = createApi({ accessKey: 'cU-wx7_kc4H8MJ8J4qjAWhLfabcC27xDUHNPbPu_tq4' });
 
@@ -54,7 +54,7 @@ const App = () => {
   return (
     <div className="app">
       <div className="icon-container">
-        <FaCamera size={40} /> {/* Add an icon to the top of the page */}
+        <FaCamera size={40} /> 
       </div>
       <form onSubmit={handleSearch} className="search-form">
         <input
