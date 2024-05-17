@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/loneonline/static/css/main.a66ab9c0.css",
+    "main.js": "/loneonline/static/js/main.a7165001.js",
+    "static/js/453.7d572b02.chunk.js": "/loneonline/static/js/453.7d572b02.chunk.js",
+    "index.html": "/loneonline/index.html",
+    "main.a66ab9c0.css.map": "/loneonline/static/css/main.a66ab9c0.css.map",
+    "main.a7165001.js.map": "/loneonline/static/js/main.a7165001.js.map",
+    "453.7d572b02.chunk.js.map": "/loneonline/static/js/453.7d572b02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a66ab9c0.css",
+    "static/js/main.a7165001.js"
+  ]
+}
